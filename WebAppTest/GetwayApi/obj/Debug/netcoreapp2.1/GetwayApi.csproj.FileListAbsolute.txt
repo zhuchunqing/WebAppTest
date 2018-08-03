@@ -1,0 +1,14 @@
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\bin\Debug\netcoreapp2.1\GetwayApi.deps.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\bin\Debug\netcoreapp2.1\GetwayApi.runtimeconfig.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\bin\Debug\netcoreapp2.1\GetwayApi.runtimeconfig.dev.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\bin\Debug\netcoreapp2.1\GetwayApi.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\bin\Debug\netcoreapp2.1\GetwayApi.pdb
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.csproj.CoreCompileInputs.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.RazorAssemblyInfo.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.RazorAssemblyInfo.cs
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.AssemblyInfoInputs.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.AssemblyInfo.cs
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.RazorTargetAssemblyInfo.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.pdb
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\GetwayApi\obj\Debug\netcoreapp2.1\GetwayApi.csprojAssemblyReference.cache

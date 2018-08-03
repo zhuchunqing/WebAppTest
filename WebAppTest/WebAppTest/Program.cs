@@ -20,7 +20,7 @@ namespace WebAppTest
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
-            .UseUrls("http://*:85")
+            //.UseUrls("http://*:85")
                 .Build();
     }
 }
