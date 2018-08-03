@@ -2,10 +2,10 @@ D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\bin\Debug\netcoreapp2.1
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\bin\Debug\netcoreapp2.1\WebAppTest.runtimeconfig.json
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\bin\Debug\netcoreapp2.1\WebAppTest.runtimeconfig.dev.json
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\bin\Debug\netcoreapp2.1\WebAppTest.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\bin\Debug\netcoreapp2.1\WebAppTest.pdb
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\obj\Debug\netcoreapp2.1\WebAppTest.csproj.CoreCompileInputs.cache
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\obj\Debug\netcoreapp2.1\WebAppTest.AssemblyInfoInputs.cache
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\obj\Debug\netcoreapp2.1\WebAppTest.AssemblyInfo.cs
-D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\bin\Debug\netcoreapp2.1\WebAppTest.pdb
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\obj\Debug\netcoreapp2.1\WebAppTest.dll
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\obj\Debug\netcoreapp2.1\WebAppTest.pdb
 D:\C#Test\dockerConsole\WebAppTest\WebAppTest\WebAppTest\obj\Debug\netcoreapp2.1\WebAppTest.csprojAssemblyReference.cache

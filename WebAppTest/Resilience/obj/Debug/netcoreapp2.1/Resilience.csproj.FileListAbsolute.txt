@@ -1,0 +1,9 @@
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\bin\Debug\netcoreapp2.1\Resilience.deps.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\bin\Debug\netcoreapp2.1\Resilience.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\bin\Debug\netcoreapp2.1\Resilience.pdb
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\obj\Debug\netcoreapp2.1\Resilience.csproj.CoreCompileInputs.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\obj\Debug\netcoreapp2.1\Resilience.AssemblyInfoInputs.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\obj\Debug\netcoreapp2.1\Resilience.AssemblyInfo.cs
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\obj\Debug\netcoreapp2.1\Resilience.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\obj\Debug\netcoreapp2.1\Resilience.pdb
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\Resilience\obj\Debug\netcoreapp2.1\Resilience.csprojAssemblyReference.cache

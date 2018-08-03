@@ -1,0 +1,17 @@
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\Resilience.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\bin\Debug\netcoreapp2.1\Resilience.pdb
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CopyComplete
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+D:\C#Test\dockerConsole\WebAppTest\WebAppTest\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
